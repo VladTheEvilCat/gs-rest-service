@@ -1,4 +1,4 @@
-package com.example.hp.employee;
+package com.example.restservice.employee;
 
 import org.springframework.stereotype.Repository;
 
